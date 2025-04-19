@@ -1,7 +1,7 @@
 {
   "name": "portfolio-ts-react",
   "version": "0.1.0",
-  "homepage": "https://samiraghav.github.io/portfolio-ts-react",
+  "homepage": ".",
   "private": true,
   "dependencies": {
     "@emailjs/browser": "^4.4.1",
