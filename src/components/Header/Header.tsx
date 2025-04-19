@@ -1,7 +1,7 @@
 import { useState } from 'react';
 import { Container } from './styles';
-import { NavHashLink, HashLink } from 'react-router-hash-link'; // Removed Router import
-import CV from '../../assets/SamirbalasahebAghavResume.pdf'; // Your CV file
+import { NavHashLink, HashLink } from 'react-router-hash-link';
+import CV from '../../assets/SamirAghavSDE1ExperiencedResume.pdf';
 
 export function Header() {
   const [isActive, setActive] = useState(false);

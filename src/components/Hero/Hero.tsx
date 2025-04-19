@@ -53,7 +53,7 @@ export function Hero() {
             Samir Aghav
           </motion.h1>
           <motion.h3 animate={{ opacity: heroTextInView ? 1 : 0 }} transition={{ duration: 0.6 }}>
-            Front End Developer
+            Full Stack Developer
           </motion.h3>
           {/* <motion.p className="small-resume">4 Years of Experience</motion.p> */}
 
