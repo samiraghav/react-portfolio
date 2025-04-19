@@ -51,3 +51,4 @@ To run this project locally, follow these steps:
 
 This project was created by Samir Aghav.
 # portfolio-react
+# react-portfolio
