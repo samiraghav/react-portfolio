@@ -1,5 +1,5 @@
 import { Container } from "./styles";
-import  FadeIn  from "../../FadeIn";
+import FadeIn from "../../FadeIn";
 
 export function Experience() {
   return (
@@ -21,24 +21,32 @@ export function Experience() {
             </div>
             <ul>
               <li>
-                - Leading development of user engagement features and scalable frontend modules for cricket content platforms.
+                - Implemented engagement-driven features like win probability metrics, increasing cricket match center pageviews by 20%.
               </li>
               <li>
-                - Built reusable content systems, tag/team modules, and automated tools for editorial workflows.
+                - Streamlined newsletter popup across 8 categories via a unified setup, resulting in a 50% increase in clicks and a 25% boost in conversions.
               </li>
               <li>
-                - Worked on{" "}
-                <a
-                  href="https://www.soapcentral.com/"
-                  target="_blank"
-                  rel="noreferrer"
-                >
+                - Developed scalable backend and frontend modules for{" "}
+                <a href="https://www.soapcentral.com/" target="_blank" rel="noreferrer">
                   Soapcentral
                 </a>{" "}
-                (6–7M MAUs), improving content delivery pipelines and backend APIs.
+                (6–7M MAUs), including Recaps, Spoilers, tag-driven content panels, and a revamped comments and notification system.
               </li>
               <li>
-                - Collaborated cross-functionally to optimize performance and ship user-focused product enhancements.
+                - Introduced features like likes, threaded replies, real-time notifications (on comment likes and replies), and deep-linking reply buttons—driving a 40% increase in user engagement and page traffic.
+              </li>
+              <li>
+                - Created the Style Central panel with affiliate integrations, generating ~$200/day in additional revenue.
+              </li>
+              <li>
+                - Redesigned access control by replacing legacy permissions with a scalable, role-based system. Improved user-specific access, streamlined off-boarding, and added detailed logging for tracking and auditability.
+              </li>
+              <li>
+                - Enhanced management control, reduced confusion, and minimized misuse—greatly easing administrative overhead.
+              </li>
+              <li>
+                - Created a backend algorithm to store highly visited articles in Redis and display them in the trending section on article pages, driving a 60% increase in page views and higher CTR from trending sections.
               </li>
             </ul>
           </div>
@@ -81,27 +89,15 @@ export function Experience() {
               </li>
               <li>
                 - Developed{" "}
-                <a
-                  href="https://raaksapphire.com/"
-                  target="_blank"
-                  rel="noreferrer"
-                >
+                <a href="https://raaksapphire.com/" target="_blank" rel="noreferrer">
                   Raak Sapphire
                 </a>
                 , Techer Solutions, and delivered updates for{" "}
-                <a
-                  href="https://makermasti.com/"
-                  target="_blank"
-                  rel="noreferrer"
-                >
+                <a href="https://makermasti.com/" target="_blank" rel="noreferrer">
                   Makermasti
                 </a>{" "}
                 and{" "}
-                <a
-                  href="https://onlinemenu.co.in/"
-                  target="_blank"
-                  rel="noreferrer"
-                >
+                <a href="https://onlinemenu.co.in/" target="_blank" rel="noreferrer">
                   Onlinemenuco
                 </a>
                 .
