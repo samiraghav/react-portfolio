@@ -18,6 +18,7 @@ import vueIcon from "../../assets/vue-icon.svg";
 import boostrapIcon from "../../assets/bootstrap-icon.svg";
 import mysqlIcon from "../../assets/mysql-icon.svg";
 import vscodeIcon from "../../assets/vscode-icon.svg";
+import { Publication } from "../Publication/Publication";
 
 export function Main() {
   return (
@@ -258,6 +259,7 @@ export function Main() {
       <Experience></Experience>
       <Education></Education>
       <Project></Project>
+      <Publication></Publication>
       <Contact></Contact>
     </Container>
   );
