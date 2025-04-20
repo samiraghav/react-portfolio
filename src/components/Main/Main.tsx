@@ -21,7 +21,6 @@ import vscodeIcon from "../../assets/vscode-icon.svg";
 
 export function Main() {
   return (
-
     <Container>
       <Particles
         id="tsparticles"

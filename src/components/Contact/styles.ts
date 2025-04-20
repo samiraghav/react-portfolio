@@ -1,6 +1,5 @@
 import styled from "styled-components";
 
-
 export const Container = styled.section`
   margin-top: 10rem;
 
@@ -50,26 +49,12 @@ export const Container = styled.section`
     }
   }
 
-
   @media(max-width: 960px){
     .contacts{
       flex-direction: column;
       div{
         width: 100%;
-        
       }
     }
   }
-  
 `
-/* old one - 2/1/2023 - 
-@media(max-width: 960px){
-    .contacts{
-      flex-direction: column;
-      div{
-        width: 100%;
-        flex-direction: column;
-      }
-    }
-
-*/

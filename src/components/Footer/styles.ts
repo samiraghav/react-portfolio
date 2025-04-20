@@ -36,7 +36,6 @@ export const Container = styled.footer`
     }
   }
 
-
   @keyframes spinning {
     0%{
       transform: rotate(0);
@@ -52,6 +51,7 @@ export const Container = styled.footer`
     gap: 2rem;
     text-align: center;
   }
+  
   @media(max-width: 600px){
     padding: 4rem 1rem;
     p{

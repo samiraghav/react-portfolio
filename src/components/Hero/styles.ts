@@ -39,7 +39,6 @@ export const Container = styled.section`
     }
   }
 
-
   .button{
     margin-top: 5rem;
     padding: 1.4rem 6rem;
@@ -50,7 +49,6 @@ export const Container = styled.section`
       max-width: 500px;
     }
   }
-
 
   @media(max-width: 960px){
     display: block;

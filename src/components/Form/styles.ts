@@ -1,6 +1,5 @@
 import styled from "styled-components";
 
-
 export const Container = styled.div`
   margin-top: 3rem;
   display: grid;
@@ -54,7 +53,6 @@ export const Container = styled.div`
     }
   }
 `
-
 
 export const ContainerSucces = styled.div`
   margin-top: 10rem;
