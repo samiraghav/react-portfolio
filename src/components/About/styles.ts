@@ -43,6 +43,11 @@ export const Container = styled.section`
     font-weight: 500;
   }
 
+  .profile-img {
+    width: 90%;
+    height: 90%;
+  }
+
   @media only screen and (max-width: 480px) {
     .about-image {
       max-width: 100%;
@@ -55,6 +60,12 @@ export const Container = styled.section`
         &:hover{
           filter: grayscale(0);
         }
+    }
+    
+    .profile-img {
+      height: 430px;
+      object-fit: cover;
+      width: 100%;
     }
   }
 
@@ -77,8 +88,5 @@ export const Container = styled.section`
           filter: grayscale(0);
         }
     }
-    
-    
   }
-
 `

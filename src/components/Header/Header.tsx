@@ -17,7 +17,6 @@ export function Header() {
 
   return (
     <Container className="header-fixed">
-      {/* Removed Router wrapper */}
       <HashLink smooth to="#home" className="logo">
         <span>Samir</span>
         <span>Aghav</span>

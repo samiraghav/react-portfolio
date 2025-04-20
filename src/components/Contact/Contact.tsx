@@ -21,7 +21,7 @@ const contactVariants = {
 export function Contact() {
   const { ref, inView } = useInView({
     triggerOnce: true,
-    threshold: 0.1, // When 10% of the element is in view
+    threshold: 0.1,
   });
 
   return (

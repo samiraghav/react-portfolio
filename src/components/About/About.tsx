@@ -7,6 +7,7 @@ import nodeIcon from "../../assets/node-icon.svg";
 import reactIcon from "../../assets/react-icon.svg";
 import typescriptIcon from "../../assets/typescript-icon.svg";
 import boostrapIcon from "../../assets/bootstrap-icon.svg";
+import profileJPG from "../../assets/profile.jpg";
 import { motion } from "framer-motion";
 import { useInView } from "react-intersection-observer";
 
@@ -94,6 +95,9 @@ export function About() {
             </div>
           ))}
         </div>
+      </div>
+      <div className="profile-photo">
+        <img className="profile-img" src={profileJPG} alt="profile" />
       </div>
     </Container>
   );
