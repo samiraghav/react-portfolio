@@ -9,12 +9,12 @@ export const Container = styled.section`
     margin-bottom: 3rem;
   }
 
-  .publication-list {
+  .accomplishment-list {
     display: flex;
     flex-direction: column;
     gap: 3rem;
 
-    .publication-item {
+    .accomplishment-item {
       padding: 2rem;
       background-color: #2b2b2b;
       border-radius: 1.2rem;
