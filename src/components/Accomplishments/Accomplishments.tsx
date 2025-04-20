@@ -1,16 +1,16 @@
 import { Container } from "./styles";
 import FadeIn from "../../FadeIn";
 
-export function Publication() {
+export function Accomplishments() {
   return (
-    <Container id="publication">
+    <Container id="accomplishment">
       <FadeIn direction="left">
-        <h2>Leadership/Publications/Certificates</h2>
+        <h2>Accomplishments</h2>
       </FadeIn>
 
-      <div className="publication-list">
+      <div className="accomplishment-list">
         <FadeIn direction="left" delay={50}>
-          <div className="publication-item">
+          <div className="accomplishment-item">
             <header>
               <h3>Intern Mentor</h3>
               <p>Sep 2024 – Feb 2025</p>
@@ -31,7 +31,7 @@ export function Publication() {
         </FadeIn>
 
         <FadeIn direction="left" delay={50}>
-          <div className="publication-item">
+          <div className="accomplishment-item">
             <header>
               <h3>An Enhanced English to Marathi Translator using Sequence-to-Sequence Transformer</h3>
               <a className="live-link" href="https://ieeexplore.ieee.org/document/10353330" target="_blank" rel="noopener noreferrer">Live</a>
@@ -54,7 +54,7 @@ export function Publication() {
         </FadeIn>
 
         <FadeIn direction="left" delay={50}>
-          <div className="publication-item">
+          <div className="accomplishment-item">
             <header>
               <h3>Meta Front-End Developer Professional Certificate</h3>
               <a className="live-link" href="https://www.coursera.org/account/accomplishments/specialization/certificate/85EQKFRC86ZG" target="_blank" rel="noopener noreferrer">Live</a>
@@ -66,9 +66,9 @@ export function Publication() {
         </FadeIn>
 
         <FadeIn direction="left" delay={50}>
-          <div className="publication-item">
+          <div className="accomplishment-item">
             <header>
-              <h3>Web Development Masterclass YouAccel</h3>
+              <h3>Web Development Masterclass YouAccel Certificate</h3>
               <a className="live-link" href="https://drive.google.com/file/d/1EQfUmVmmmRHx4u-nZl8dHcvK3lHvzGpS/view" target="_blank" rel="noopener noreferrer">Live</a>
             </header>
             <div className="timestamp">
@@ -78,9 +78,9 @@ export function Publication() {
         </FadeIn>
 
         <FadeIn direction="left" delay={50}>
-          <div className="publication-item">
+          <div className="accomplishment-item">
             <header>
-              <h3>Zensar ESD training provided by Zensar Technology</h3>
+              <h3>Zensar ESD training provided by Zensar Technology Training</h3>
             </header>
             <div className="timestamp">
               <p>Zensar Company</p>

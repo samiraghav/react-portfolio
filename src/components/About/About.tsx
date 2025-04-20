@@ -52,7 +52,7 @@ export function About() {
 
         <FadeIn delay={100}>
           <p>
-            I’m a passionate Full Stack Developer with <strong>2.3 years of experience</strong> building scalable, high-performance web applications. At <strong>Sportskeeda</strong>, I contributed to platforms serving over <strong>100M+ monthly active users</strong>, delivering impactful features across both frontend and backend systems.
+            I’m a passionate Full Stack Developer with <strong>2.3 years of cumulative experience</strong> through internships and full-time roles, building scalable, high-performance web applications. At <strong>Sportskeeda</strong>, I contributed to platforms serving over <strong>100M+ monthly active users</strong>, delivering impactful features across both frontend and backend systems.
           </p>
         </FadeIn>
 

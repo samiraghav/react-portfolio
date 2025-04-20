@@ -55,7 +55,7 @@ export function Hero() {
           <motion.h3 animate={{ opacity: heroTextInView ? 1 : 0 }} transition={{ duration: 0.6 }}>
             Full Stack Developer
           </motion.h3>
-          <motion.p className="small-resume">2.3 Years of Experience</motion.p>
+          <motion.p className="small-resume">2.3 Years of Cumulative Experience</motion.p>
 
           <motion.div
             animate={{ opacity: heroTextInView ? 1 : 0 }}
