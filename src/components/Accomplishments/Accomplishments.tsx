@@ -12,7 +12,7 @@ export function Accomplishments() {
         <FadeIn direction="left" delay={50}>
           <div className="accomplishment-item">
             <header>
-              <h3>Intern Mentor</h3>
+              <h3>Intern Mentor(Sportskeeda)</h3>
               <p>Sep 2024 – Feb 2025</p>
             </header>
             <div className="timestamp">
