@@ -1,4 +1,3 @@
-import React from "react";
 import { Container } from "./styles";
 import { motion } from "framer-motion";
 import externalLink from "../../assets/external-link.svg";
@@ -33,6 +32,13 @@ export function Project() {
       link: "https://color-paletteapplication.netlify.app",
     },
     {
+      title: "Portolio in React + Framer ",
+      description:
+        "Designed and developed a personal portfolio using React and Framer Motion to showcase projects, skills, and experience with smooth animations and a responsive UI.",
+      tech: ["ReactJS", "Framer", "HTML", "CSS"],
+      link: "https://samir-aghav-react-portfolio.vercel.app",
+    },
+    {
       title: "Anime Website",
       description:
         "Created a modern anime listing platform using ReactJS with real-time data fetched from the Jikan API, showcasing anime details and ratings.",
@@ -52,13 +58,6 @@ export function Project() {
         "Built a fully functional CRUD todo app using React, Redux for state management, Framer Motion for animations, and React Icons for UI polish.",
       tech: ["ReactJS", "Redux", "Framer Motion", "JS"],
       link: "https://samiraghav.github.io/todo-crud-app",
-    },
-    {
-      title: "Portolio in React + Framer ",
-      description:
-        "Designed and developed a personal portfolio using React and Framer Motion to showcase projects, skills, and experience with smooth animations and a responsive UI.",
-      tech: ["ReactJS", "Framer", "HTML", "CSS"],
-      link: "https://samir-aghav-react-portfolio.vercel.app",
     },
     // {
     //   title: "Family Guy Soundboard",
