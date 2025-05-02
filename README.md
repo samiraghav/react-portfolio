@@ -11,7 +11,6 @@ This is my personal **portfolio website** built using **TypeScript**, **React**,
 - ⚡ **Dynamic Routing** — SPA experience with React Router  
 - 📬 **Contact Form** — Fully functional with EmailJS / Formspree  
 - 🔗 **API Integrations** — Uses Axios and third-party APIs for dynamic content  
-- 💡 **Toast Notifications** — User feedback with React Toastify  
 
 ---
 
@@ -22,8 +21,7 @@ This is my personal **portfolio website** built using **TypeScript**, **React**,
 - **React Router**  
 - **Styled Components**  
 - **Axios**  
-- **EmailJS / Formspree**  
-- **React Toastify**  
+- **EmailJS**  
 - **Google Fonts**  
 - **Font Awesome**
 
